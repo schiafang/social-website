@@ -9,7 +9,7 @@
 
 
 ![index](https://i.imgur.com/DF3Sl2J.png)
-![detail](https://i.imgur.com/Q1Jlevo.png)
+
 ![search](https://i.imgur.com/ATWDsNR.png)
 
 
