@@ -144,6 +144,7 @@
     const list = JSON.parse(localStorage.getItem('favoriteList')) || []
     const favoriteItem = data.find(data => data.id === Number(id))
     list.push(favoriteItem)
+    alert('已加入收藏清單')
     localStorage.setItem('favoriteList', JSON.stringify(list))
   }
 
